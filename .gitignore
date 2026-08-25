@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Personal journal data: keep it private and do not commit it to GitHub.
+data/*.csv
+!data/.gitkeep
